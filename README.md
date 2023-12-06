@@ -24,12 +24,9 @@ https://github.com/psychedelickoala/monopoly-in-pygame
 3. 이후 폴더 내의 main.py를 visual studio code를 통해 실행시킵니다.
 
 ## 3. 최종 발표 슬라이드 내용과 구체적인 설명 추가
-### 
 
 
-
-
-### 기존 코드에서 수정한 점
+### [기존 코드에서 수정한 점]
 
 #### 1. 우측상단 모서리 칸 도착하면 감옥칸으로 이송
 
