@@ -11,7 +11,7 @@ pygame, cx_freeze 패키지를 다운로드 받아야 합니다.
 https://github.com/psychedelickoala/monopoly-in-pygame 
 
 ## 2. Ubuntu 20.04 기준 설치 방법 명시
-1. https://github.com/taegnag/Assignment 접속 후 초록색 code 버튼을 눌러 Download Zip을 실행시킵니다.
+1. https://github.com/taegnag/Assignment 접속 후 초록색 code 버튼을 눌러 Download Zip을 다운로드 및 압축 해제합니다.
 2. 터미널을 통해 파일이 있는 경로로 이동한 뒤, 터미널에 다음과 같은 명령어를 입력합니다.
 
         pip install pygame
