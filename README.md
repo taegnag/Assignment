@@ -4,7 +4,7 @@
 
 pygame, cx_freeze 패키지를 다운로드 받아야 합니다.
 
-버전 : pygame=2.5.2 cx_freeze=6.15.10
+버전 : python 3.10.12, pygame 2.5.2, cx_freeze 6.15.10
 
 ### 사용한 오픈소스
 
@@ -23,6 +23,9 @@ https://github.com/psychedelickoala/monopoly-in-pygame
 3. 이후 폴더 내의 main.py를 visual studio code를 통해 실행시킵니다.
 
 ## 3. 최종 발표 슬라이드 내용과 구체적인 설명 추가
+### [프로젝트 주요 특징]
+수정하거나 새로 작성한 코드로 인해 기존의 코드와 진행 방식이 어떻게 달라졌는지 위주로 봐주시면 감사하겠습니다.
+
 ### [class 다이어그램]
 #### 플레이어 관련 class -Player, AI, Bank
 Player : 게임 참여자의 게임 내 정보를 저장하는 클래스
